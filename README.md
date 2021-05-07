@@ -1,8 +1,6 @@
 # secret
 
-A simple utility for encrypting and decrypting data in Go. 
-
-*uses AES-256-CFB with a crypto random IV*
+A simple utility for encrypting and decrypting data in Go. (AES-256-CFB)
 
 ## Install
 
